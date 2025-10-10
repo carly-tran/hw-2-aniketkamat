@@ -5,5 +5,5 @@ _This repository is public so that Binder can find it. All code and data is base
 
 Description: This project worked on improving the reproducibility of a LIGO notebook by setting up a usable Binder link, allowing others to easily run the code with the proper dependencies.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gesis.mybinder.org/user/ucb-stat-159-f2-w-2-aniketkamat-4c7euzyr/lab/tree/LOSC_Event_tutorial.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gesis.mybinder.org/user/ucb-stat-159-f2-w-2-aniketkamat-lpii9er3/lab/tree/LOSC_Event_tutorial.ipynb)
 
